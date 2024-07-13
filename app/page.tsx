@@ -65,7 +65,7 @@ export default function Home() {
         >
           <h2 className="mb-3 text-2xl font-semibold">
             Open Source{" "}
-            <span className="We share all our smart contract work as open source MIT Lıcence."">
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
