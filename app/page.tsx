@@ -18,7 +18,7 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/Yotta21.svg"
+              src="/yotta21.svg"
               alt=" Yotta21 Logo"
               className=""
               width={100}
